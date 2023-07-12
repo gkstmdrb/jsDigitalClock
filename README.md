@@ -3,8 +3,40 @@
 ### 화면
 https://github.com/gkstmdrb/jsDigitalClock/assets/114748816/1145a378-4e09-4c4d-abe4-4f4cdd64e4b7
 <br><br>
+### html 시계 코드
+``` html
+		<div class="clock"> 
+<div class="today" id="today"></div> 
+<div class="time" id="time"></div> 
+</div>
+```
+<br><br>
 
-### js코드
+### css 시계 코드
+``` css
+.clock {
+	line-height: 1px;
+	margin: 608px 855px;
+	padding: 30px 0;
+	width: 680px;
+	
+}
+
+.today {
+	margin-bottom: 10px;
+}
+
+.time {
+	margin-top: 10px;
+	font-size: 30px;
+	color: white;
+	font-family: 'gothic';
+	font-weight: bold;
+}
+```
+<br><br>
+
+### js 코드
 ``` javascript
 const todayDiv = document.getElementById("today")
 const timeDiv = document.getElementById("time")
