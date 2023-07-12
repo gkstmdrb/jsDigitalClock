@@ -1,5 +1,8 @@
 # jsDigitalClock
 <br><br>
+### 화면
+https://github.com/gkstmdrb/jsDigitalClock/assets/114748816/1145a378-4e09-4c4d-abe4-4f4cdd64e4b7
+<br><br>
 
 ### js코드
 ``` javascript
