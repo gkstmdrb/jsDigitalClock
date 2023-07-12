@@ -1,7 +1,9 @@
 # jsDigitalClock
 <br><br>
 ### 화면
-https://github.com/gkstmdrb/jsDigitalClock/assets/114748816/1145a378-4e09-4c4d-abe4-4f4cdd64e4b7
+https://github.com/gkstmdrb/jsDigitalClock/assets/114748816/1145a378-4e09-4c4d-abe4-4f4cdd64e4b7 <br>
+![image](https://github.com/gkstmdrb/jsDigitalClock/assets/114748816/d5f41981-6937-46bb-a43c-a0c5be5522d8)
+
 <br><br>
 ### html 시계 코드
 ``` html
